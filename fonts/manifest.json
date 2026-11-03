@@ -1,0 +1,202 @@
+[
+ {
+  "dir": "ofl/literata",
+  "license": "OFL-1.1",
+  "files": [
+   "Literata[opsz,wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/sourceserif4",
+  "license": "OFL-1.1",
+  "files": [
+   "SourceSerif4[opsz,wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/ebgaramond",
+  "license": "OFL-1.1",
+  "files": [
+   "EBGaramond[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/lora",
+  "license": "OFL-1.1",
+  "files": [
+   "Lora[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/crimsonpro",
+  "license": "OFL-1.1",
+  "files": [
+   "CrimsonPro[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/newsreader",
+  "license": "OFL-1.1",
+  "files": [
+   "Newsreader[opsz,wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/merriweather",
+  "license": "OFL-1.1",
+  "files": [
+   "Merriweather[opsz,wdth,wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/fraunces",
+  "license": "OFL-1.1",
+  "files": [
+   "Fraunces[SOFT,WONK,opsz,wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/inter",
+  "license": "OFL-1.1",
+  "files": [
+   "Inter[opsz,wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/atkinsonhyperlegible",
+  "license": "OFL-1.1",
+  "files": [
+   "AtkinsonHyperlegible-Bold.ttf",
+   "AtkinsonHyperlegible-Regular.ttf"
+  ]
+ },
+ {
+  "dir": "ofl/worksans",
+  "license": "OFL-1.1",
+  "files": [
+   "WorkSans[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/ibmplexsans",
+  "license": "OFL-1.1",
+  "files": [
+   "IBMPlexSans[wdth,wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/nunito",
+  "license": "OFL-1.1",
+  "files": [
+   "Nunito[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/figtree",
+  "license": "OFL-1.1",
+  "files": [
+   "Figtree[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/opensans",
+  "license": "OFL-1.1",
+  "files": [
+   "OpenSans[wdth,wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/jetbrainsmono",
+  "license": "OFL-1.1",
+  "files": [
+   "JetBrainsMono[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/ibmplexmono",
+  "license": "OFL-1.1",
+  "files": [
+   "IBMPlexMono-Bold.ttf",
+   "IBMPlexMono-Regular.ttf"
+  ]
+ },
+ {
+  "dir": "ofl/spacemono",
+  "license": "OFL-1.1",
+  "files": [
+   "SpaceMono-Bold.ttf",
+   "SpaceMono-Regular.ttf"
+  ]
+ },
+ {
+  "dir": "ofl/firacode",
+  "license": "OFL-1.1",
+  "files": [
+   "FiraCode[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/courierprime",
+  "license": "OFL-1.1",
+  "files": [
+   "CourierPrime-Bold.ttf",
+   "CourierPrime-Regular.ttf"
+  ]
+ },
+ {
+  "dir": "ofl/playfairdisplay",
+  "license": "OFL-1.1",
+  "files": [
+   "PlayfairDisplay[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/abrilfatface",
+  "license": "OFL-1.1",
+  "files": [
+   "AbrilFatface-Regular.ttf"
+  ]
+ },
+ {
+  "dir": "ofl/bebasneue",
+  "license": "OFL-1.1",
+  "files": [
+   "BebasNeue-Regular.ttf"
+  ]
+ },
+ {
+  "dir": "ofl/caveat",
+  "license": "OFL-1.1",
+  "files": [
+   "Caveat[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/spacegrotesk",
+  "license": "OFL-1.1",
+  "files": [
+   "SpaceGrotesk[wght].ttf"
+  ]
+ },
+ {
+  "dir": "apache/robotoslab",
+  "license": "Apache-2.0",
+  "files": [
+   "RobotoSlab[wght].ttf"
+  ]
+ },
+ {
+  "dir": "ofl/dmserifdisplay",
+  "license": "OFL-1.1",
+  "files": [
+   "DMSerifDisplay-Regular.ttf"
+  ]
+ },
+ {
+  "dir": "ofl/sourcecodepro",
+  "license": "OFL-1.1",
+  "files": [
+   "SourceCodePro[wght].ttf"
+  ]
+ }
+]

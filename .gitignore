@@ -1,0 +1,13 @@
+build/
+*.app
+*.dmg
+*.zip
+.DS_Store
+*.p12
+*.cer
+*.key
+*.pem
+.env
+config.json
+tokens.json
+spotify.json
